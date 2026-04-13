@@ -60,5 +60,5 @@ This contract includes several safeguards:
 ---
 
 ## 👤 Author
-**[RAMDANI]** * GitHub: [@username](https://github.com/Ramdanitkj)
+* **RAMDANI** GitHub: [@username](https://github.com/Ramdanitkj)
 * Instagram: [linkedin.com/in/username](https://linkedin.com/in/userfraxzz)
